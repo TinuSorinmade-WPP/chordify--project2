@@ -5,5 +5,4 @@ spotify-keys.json
 googleapi.json
 client_secret.json
 .cache-d5sess08hyl30qcymj3eunyv8
-.gitignore
 token.pickle
